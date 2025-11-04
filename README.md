@@ -22,9 +22,9 @@ Programmet:
 
 - Genererer derefter to tilfældige sætninger:
 
-- - Én der slutter med ?
+  - Én der slutter med ?
 
-- - Én der slutter med !
+  - Én der slutter med !
 
 Filer:
 
